@@ -2,9 +2,9 @@
 ![alt tag](https://github.com/Ildaron/STM32_stereovision/blob/master/Supplementary_files/PCB_development.bmp "general view")​
 
 
--  [How it Works](https://github.com/Ildaron/ironbci/blob/master/README.md#1-how-it-works) 
--  [Citation](https://github.com/Ildaron/ironbci/blob/master/README.md#7-citation)   
--  [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)    
+-  [How it Works](https://github.com/Ildaron/STM32_stereovision/blob/master/README.md#how-it-works) 
+-  [Citation](https://github.com/Ildaron/STM32_stereovision#citation)   
+-  [Contacts](https://github.com/Ildaron/STM32_stereovision#contacts)    
 
 
 #### How it Works  
