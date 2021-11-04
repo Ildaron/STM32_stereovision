@@ -1,5 +1,5 @@
 # STM32 for stereovision tasks (in progress)
-## If you are here, you are interested in this, write to me. At the moment, in development in progress, join to the team
+## If you are here, you are interested in this, write to me. At the moment, in development in progress, join to us
 ![alt tag](https://github.com/Ildaron/STM32_stereovision/blob/master/Supplementary_files/PCB_development..bmp "general view")​
 
 
