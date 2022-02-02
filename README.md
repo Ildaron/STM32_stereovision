@@ -1,5 +1,6 @@
 # STM32 for stereovision tasks (in progress)
-## If you are here, you are interested in this, write to me. At the moment, in development in progress, join to us
+2 cameras controlled via CMDI interface with STM32H750.   
+With Button we can choose which camera for demonstare images in display  
 ![alt tag](https://github.com/Ildaron/STM32_stereovision/blob/master/Supplementary_files/img3.jpg "general view")​
 
 
@@ -14,3 +15,4 @@
 Paper soon will be published 
 #### Contacts
 ildar.o2010@yandex.ru   
+At the moment, in development in progress, join to us
