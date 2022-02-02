@@ -1,6 +1,7 @@
 # STM32 for stereovision tasks (in progress)
-2 cameras controlled via CMDI interface with STM32H750.   
-With Button we can choose which camera for demonstare images in display  
+2 cameras controlled via CMDI interface with STM32H750.  
+With Button, we can choose which camera for demonstrate images in the display.
+We have plan install ROS EMBOX to STM32 for operate with OpenCV for stereovision image.      
 ![alt tag](https://github.com/Ildaron/STM32_stereovision/blob/master/Supplementary_files/img3.jpg "general view")​
 
 
