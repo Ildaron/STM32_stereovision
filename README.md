@@ -11,7 +11,7 @@ We have plan install ROS EMBOX to STM32 for operate with OpenCV for stereovision
 
 
 #### How it Works  
-
+Two OB7725 cameras are connected to STM32 microcontrollers, with the help of a button the cameras are switched and their image is entered on the display on the other side of the board.  
 #### Citation
 Paper soon will be published 
 #### Contacts
